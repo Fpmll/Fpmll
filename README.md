@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Atualmente trabalho com Desenvolvimento de banco de dados<br>👯 Estou estudando Dart e C<br>🤝 Cursando facudade de Engenharia da Computação<br>
+🔭Atualmente trabalho com Desenvolvimento de banco de dados, programação de CLP, EasyBuilder<br>👯 Estou estudando C, python<br>🤝 Cursando facudade de Engenharia da Computação<br>
 
 
 # 💻 Tech Stack:
